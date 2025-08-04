@@ -1,0 +1,14 @@
+C:\Users\abhis\OneDrive\Desktop\6 day task\HelloDotnet\bin\Debug\net8.0\HelloDotnet.exe
+C:\Users\abhis\OneDrive\Desktop\6 day task\HelloDotnet\bin\Debug\net8.0\HelloDotnet.deps.json
+C:\Users\abhis\OneDrive\Desktop\6 day task\HelloDotnet\bin\Debug\net8.0\HelloDotnet.runtimeconfig.json
+C:\Users\abhis\OneDrive\Desktop\6 day task\HelloDotnet\bin\Debug\net8.0\HelloDotnet.dll
+C:\Users\abhis\OneDrive\Desktop\6 day task\HelloDotnet\bin\Debug\net8.0\HelloDotnet.pdb
+C:\Users\abhis\OneDrive\Desktop\6 day task\HelloDotnet\obj\Debug\net8.0\HelloDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhis\OneDrive\Desktop\6 day task\HelloDotnet\obj\Debug\net8.0\HelloDotnet.AssemblyInfoInputs.cache
+C:\Users\abhis\OneDrive\Desktop\6 day task\HelloDotnet\obj\Debug\net8.0\HelloDotnet.AssemblyInfo.cs
+C:\Users\abhis\OneDrive\Desktop\6 day task\HelloDotnet\obj\Debug\net8.0\HelloDotnet.csproj.CoreCompileInputs.cache
+C:\Users\abhis\OneDrive\Desktop\6 day task\HelloDotnet\obj\Debug\net8.0\HelloDotnet.dll
+C:\Users\abhis\OneDrive\Desktop\6 day task\HelloDotnet\obj\Debug\net8.0\refint\HelloDotnet.dll
+C:\Users\abhis\OneDrive\Desktop\6 day task\HelloDotnet\obj\Debug\net8.0\HelloDotnet.pdb
+C:\Users\abhis\OneDrive\Desktop\6 day task\HelloDotnet\obj\Debug\net8.0\HelloDotnet.genruntimeconfig.cache
+C:\Users\abhis\OneDrive\Desktop\6 day task\HelloDotnet\obj\Debug\net8.0\ref\HelloDotnet.dll
